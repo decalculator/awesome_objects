@@ -7,47 +7,11 @@
     {
         "objects":
         {
-            "cell1":
+            "cell":
             {
                 "mode": "online",
-                "url": "https://github.com/decalculator/cell1",
-                "type": "github_repo"
-            },
-            "cell2":
-            {
-                "mode": "online",
-                "url": "https://raw.com/cell2.zip",
-                "type": "raw_zip"
-            }
-        },
-        "plugins":
-        {
-            "plg1":
-            {
-                "mode": "online",
-                "url": "https://github.com/decalculator/cell1",
-                "type": "github_repo"
-            },
-            "plg2":
-            {
-                "mode": "online",
-                "url": "https://raw.com/cell2.zip",
-                "type": "raw_zip"
-            }
-        },
-        "modules":
-        {
-            "mdl1":
-            {
-                "mode": "online",
-                "url": "https://github.com/decalculator/cell1",
-                "type": "github_repo"
-            },
-            "mdl2":
-            {
-                "mode": "online",
-                "url": "https://raw.com/cell2.zip",
-                "type": "raw_zip"
+                "url": "https://github.com/decalculator/awesome_objects/objects/cell/cell.zip",
+                "type": "github_folder"
             }
         }
     }
