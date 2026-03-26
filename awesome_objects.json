@@ -10,8 +10,8 @@
             "cell":
             {
                 "mode": "online",
-                "url": "https://github.com/decalculator/awesome_objects/objects/cell/cell.zip",
-                "type": "github_folder"
+                "url": "https://github.com/decalculator/awesome_objects/raw/refs/heads/main/objects/cell/cell.zip",
+                "type": "raw_zip"
             }
         }
     }
